@@ -11,6 +11,7 @@
     <PackageTags>xero;api;sdk</PackageTags>
     <PackageReleaseNotes>Up to date with https://github.com/XeroAPI/Xero-NetStandard/releases/tag/v1.1.4</PackageReleaseNotes>
     <PackageIconUrl>https://secure.gravatar.com/avatar/7fff030fb8040a5157c3fd463858167f.png?s=128</PackageIconUrl>
+    <PackageVersion>1.1.4-custom</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="ConfigureAwaitChecker.Analyzer" Version="1.0.1" PrivateAssets="All" />
